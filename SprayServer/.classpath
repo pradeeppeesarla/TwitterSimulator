@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/akka-actor_2.11-2.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/config-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/mimepull-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/parboiled-core-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/parboiled-scala_2.11-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/scala-library-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/scala-xml_2.11-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/shapeless_2.11-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-can_2.11-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-http_2.11-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-httpx_2.11-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-io_2.11-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-json_2.11-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-routing_2.11-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spraytemplate_2.11-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/tools/spraytemplate/target/xitrum/lib/spray-util_2.11-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
